@@ -2,9 +2,9 @@ import React from "react";
 
 function Navbar() {
   return (
-    <header className="bg-gray-50 px-6 py-3 border-b-2 border-gray-200">
-      <nav className="flex items-center justify-between w-full">
-        <div className="flex items-center text-2xl font-bold">
+    <header className="bg-gray-50 border-b-2 border-gray-200 px-6 py-3">
+      <nav className="flex justify-between w-full items-center">
+        <div className="flex text-2xl font-bold items-center">
           <img
             className="mr-1.5 size-10"
             src="/color-wheel-svgrepo-com.svg"
@@ -14,8 +14,8 @@ function Navbar() {
         </div>
         <div>
           <a
-            className="gap-1.5 flex items-center"
-            href="https://www.github.com/casv331"
+            className="flex gap-1.5 items-center"
+            href="https://www.github.com/casv331/ColorPal"
             rel="noopener"
             target="blank"
           >
