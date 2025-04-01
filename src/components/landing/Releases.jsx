@@ -33,7 +33,7 @@ function Releases() {
             >
               Feel the energy of their music and prepare to be taken on an
               unforgettable journey through the most vibrant and exicting sounds
-              in the world of electronic music.
+              in the world of rap music.
             </p>
             <button
               className="uppercase py-2 w-56 border-1 rounded-lg font-bold text-lg"
